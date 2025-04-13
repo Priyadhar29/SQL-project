@@ -1,0 +1,6 @@
+review_id,recipe_id,user_id,rating,comment
+1,1,2,5,"Absolutely delicious! A must-try."
+2,2,3,4,"Very good, but a bit too sweet for my taste."
+3,3,2,5,"Perfect appetizer for parties!"
+4,4,1,5,"Juicy and flavorful, will make again."
+5,5,3,3,"Good, but a bit dense for my liking."
