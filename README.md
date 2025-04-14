@@ -24,4 +24,5 @@ Welcome to the SQL Project Repository! This project showcases various SQL-based 
      ERD Tools for schema visualization
 
 📈 Goals
+
     This project is aimed at improving SQL proficiency through hands-on practice and offering reusable templates for academic, testing, or professional use.
